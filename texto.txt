@@ -1,0 +1,23 @@
+Título 
+Um lugar que faz seu estilo
+
+Subtítulo 1
+Venha conhecer nossos serviços e ver todas as vantagens de assinar o nosso plano.
+
+Subtítulo 2
+NOSSO SERVIÇOS
+
+Parágrafo
+Somos especializados em cortes masculinos oferecendo um serviço moderno e de qualidade. 
+Temos uma grande variedade de tipos de de cortes especiais para nossos clientes. Também temos um plano que
+oferece muitas vantagens para nossa clientela.
+
+Subtítulo 2
+CONTATO
+
+Parágrafo
+Voce pode entrar em contato conosco através do email contato@barbeariastylus.com.br ou através do telefone (21)99999-9999 (whatsapp)
+
+Link
+Fale conosco no WhatsApp
+Url do link: https://api.whatsapp.com/send?phone=999999999&text=Send20%a20%quote"
